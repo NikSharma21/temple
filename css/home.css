@@ -194,6 +194,7 @@ div.carousel {
   color: white;
   border-radius: 5px;
 
+
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a {
@@ -212,6 +213,14 @@ div.carousel {
   color: white;
   background-image: none;
   background-color: #373737;
+}
+
+#mc_embed_signup input {
+    border: none;
+}
+
+#mc-embedded-subscribe {
+    margin: auto;
 }
 
 .validate {
